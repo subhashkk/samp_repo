@@ -1,1 +1,1 @@
-Sample Reporsitory
+Sample Repository
