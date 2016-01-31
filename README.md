@@ -1,1 +1,1 @@
-# samp_repo
+Sample Reporsitory
